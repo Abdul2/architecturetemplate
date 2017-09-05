@@ -1,5 +1,3 @@
 
 
-![architecturetemplate/Home Office Architecture.svg]
-
-![Preview](https://rawgit.com/UKHomeOffice/IDAM/master/IDAM.svg)
+![Preview](https://rawgit.com/Abdul2/architecturetemplate/master/Home%20Office%20Architecture.svg)
